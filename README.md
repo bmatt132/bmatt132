@@ -2,4 +2,4 @@
 - 👀 I’m interested in General Hacking, Coding, Computers
 - 🌱 I’m currently learning Ametuer Coding, and General Hacking, Server Injection
 - 💞️ I’m looking to collaborate on anything related to JS, Linux, or ChromeOS
-- 📫 How to reach me. Discord: boardmatt672, Email: matt2009.14@outlook.com
+- 📫 How to reach me. Discord: bmatt132, Email: matt2009.14@outlook.com
